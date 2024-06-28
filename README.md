@@ -51,11 +51,11 @@ The `frontend` application will start on http://localhost:3000.
 
 1. **Start the backend server:**
 
-  ```bash
+   ```bash
    cd backend
    npm start
 
-The `backend` server will start on http://localhost:5000.
+The `backend` application will start on http://localhost:5000.
 
 
 
